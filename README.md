@@ -1,6 +1,12 @@
-# Hi, I'm Chahak Jain
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChahakJain30/ChahakJain30/main/banner.png" alt="Banner" width="90%" />
+</p>
 
-A detail-oriented and curious developer focused on building clean, structured, and meaningful solutions.
+<h1 align="center">Hi, I’m Chahak Jain</h1>
+
+<p align="center">
+  Aspiring developer focused on clean code, structure, and continuous learning
+</p>
 
 ---
 
