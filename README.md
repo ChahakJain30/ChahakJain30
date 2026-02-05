@@ -38,29 +38,27 @@
 
 ---
 
-## 🛠️ Technical Focus
-
-### 💻 Core Development
+💻 Core Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,python" />
 </p>
 
-### 🌐 Full Stack (MERN)
+🌐 Full Stack (MERN)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
 </p>
 
-### 🗄️ Databases & Cloud
+🗄️ Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
 </p>
 
-### ⚙️ Tools & Workflow
+⚙️ Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
-### 🧠 Focus Areas
+🧠 Focus Areas
 <p align="center">
   Data Structures & Algorithms in C++ · Backend APIs · System Design (Basics)
 </p>
