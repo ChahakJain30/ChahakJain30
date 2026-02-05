@@ -1,12 +1,7 @@
 <img src="./banner.png" alt="Banner" width="100%" />  
 </br>
 
-Hi 👋 I'm Chahak Jain  
 
-• 🎓 Computer Science Engineering undergraduate (Class of 2026)  
-• 💻 Full Stack Developer | MERN | DSA in C++
-
----
 
 🚀 About Me  
 • Computer Science student with hands-on experience in building scalable full-stack web applications  
