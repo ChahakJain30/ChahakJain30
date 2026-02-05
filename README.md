@@ -23,10 +23,14 @@
 
 
 
-🚀 About Me  
-• Computer Science student with hands-on experience in building scalable full-stack web applications  
-• Worked on secure authentication, payment gateways, REST APIs, and CI/CD pipelines  
-• Interested in system design, real-world products, and problem-solving  
+<p align="center">
+  I am a Computer Science undergraduate with hands-on experience in building scalable
+  full-stack web applications. I enjoy working on secure systems, REST APIs, and CI/CD
+  pipelines, and I’m deeply interested in system design, real-world product development,
+  and problem-solving.
+</p>
+
+<br/> 
 
 ---
 
