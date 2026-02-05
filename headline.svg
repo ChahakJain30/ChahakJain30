@@ -1,0 +1,47 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .text {
+      font: 600 28px 'Segoe UI', Inter, Arial, sans-serif;
+      fill: #A78BFA;
+      text-anchor: middle;
+    }
+  </style>
+
+  <text x="600" y="50" class="text">
+
+    <tspan>
+      Building Scalable Full-Stack Web Applications
+      <animate attributeName="opacity"
+               values="1;0;0;0"
+               dur="16s"
+               repeatCount="indefinite"/>
+    </tspan>
+
+    <tspan x="600" y="50">
+      Working with MERN Stack & Modern Web Technologies
+      <animate attributeName="opacity"
+               values="0;1;0;0"
+               dur="16s"
+               repeatCount="indefinite"/>
+    </tspan>
+
+    <tspan x="600" y="50">
+      Strengthening DSA & Problem-Solving in C++
+      <animate attributeName="opacity"
+               values="0;0;1;0"
+               dur="16s"
+               repeatCount="indefinite"/>
+    </tspan>
+
+    <tspan x="600" y="50">
+      Interested in System Design & Real-World Products
+      <animate attributeName="opacity"
+               values="0;0;0;1"
+               dur="16s"
+               repeatCount="indefinite"/>
+    </tspan>
+
+  </text>
+</svg>
