@@ -1,18 +1,18 @@
-• Hi 👋 I'm Chahak Jain  
+Hi 👋 I'm Chahak Jain  
 
 • 🎓 Computer Science Engineering undergraduate (Class of 2026)  
 • 💻 Full Stack Developer | MERN | DSA in C++
 
 ---
 
-• 🚀 About Me  
+🚀 About Me  
 • Computer Science student with hands-on experience in building scalable full-stack web applications  
 • Worked on secure authentication, payment gateways, REST APIs, and CI/CD pipelines  
 • Interested in system design, real-world products, and problem-solving  
 
 ---
 
-• 🛠 Tech Stack  
+🛠 Tech Stack  
 
 • Languages:  
   – C++  
@@ -42,7 +42,7 @@
 
 ---
 
-• 📌 Featured Projects  
+📌 Featured Projects  
 
 • 🛒 E-Commerce Platform  
   – Tech: React, Node.js, Express, MongoDB, Razorpay  
@@ -66,14 +66,7 @@
 
 ---
 
-• 🎤 Positions of Responsibility  
-• Event Anchor – Drama Club, VIT Bhopal  
-  – Anchored cultural and drama events for 300+ attendees  
-  – Coordinated with performers and technical teams  
-
----
-
-• 📫 Connect With Me  
+📫 Connect With Me  
 • LinkedIn: https://www.linkedin.com/in/chahak-jain-830942251/
 • Email: chahak.nikhil@gmail.com
 
