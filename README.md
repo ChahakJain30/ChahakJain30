@@ -58,10 +58,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
-🧠 Focus Areas
-<p align="center">
-  Data Structures & Algorithms in C++ · Backend APIs · System Design (Basics)
-</p>
 
 ---
 
