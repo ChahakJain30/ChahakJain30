@@ -42,31 +42,27 @@
 
 <br/>
 
-<h3 align="center" style="color:#A78BFA;">💻 Core Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" />
-</p>
+<div align="center">
 
-<br/>
+## 💻 Core Development
+<img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" />
 
-<h3 align="center" style="color:#A78BFA;">🌐 Full Stack (MERN)</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
-</p>
+<br/><br/>
 
-<br/>
+## 🌐 Full Stack (MERN)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
 
-<h3 align="center" style="color:#A78BFA;">🗄️ Databases & Cloud</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
-</p>
+<br/><br/>
 
-<br/>
+## 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
 
-<h3 align="center" style="color:#A78BFA;">⚙️ Tools & Workflow</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
-</p>
+<br/><br/>
+
+## ⚙️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+
+</div>
 
 <br/>
 
