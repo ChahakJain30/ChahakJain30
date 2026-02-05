@@ -67,6 +67,5 @@ Hi 👋 I'm Chahak Jain
 ---
 
 📫 Connect With Me  
-• LinkedIn: https://www.linkedin.com/in/chahak-jain-830942251/
 • Email: chahak.nikhil@gmail.com
-
+• LinkedIn: https://www.linkedin.com/in/chahak-jain-830942251/
