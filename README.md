@@ -38,25 +38,37 @@
 
 ---
 
-💻 Core Development
+## 🛠️ Technical Focus
+
+<br/>
+
+<h3 align="center" style="color:#A78BFA;">💻 Core Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" />
 </p>
 
-🌐 Full Stack (MERN)
+<br/>
+
+<h3 align="center" style="color:#A78BFA;">🌐 Full Stack (MERN)</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
 </p>
 
-🗄️ Databases & Cloud
+<br/>
+
+<h3 align="center" style="color:#A78BFA;">🗄️ Databases & Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
 </p>
 
-⚙️ Tools & Workflow
+<br/>
+
+<h3 align="center" style="color:#A78BFA;">⚙️ Tools & Workflow</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
 </p>
+
+<br/>
 
 
 ---
