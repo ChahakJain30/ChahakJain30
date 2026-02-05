@@ -38,33 +38,32 @@
 
 ---
 
-🛠 Tech Stack  
+## 🛠️ Technical Focus
 
-• Languages:  
-  – C++  
-  – Python  
-  – Java  
-  – JavaScript  
-  – HTML  
-  – CSS  
-  – SQL  
+### 💻 Core Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
+</p>
 
-• Frameworks & Libraries:  
-  – React.js  
-  – Node.js  
-  – Express.js  
-  – TensorFlow  
+### 🌐 Full Stack (MERN)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+</p>
 
-• Databases & Cloud:  
-  – MongoDB (Atlas)  
-  – MySQL  
-  – AWS (Basics)  
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+</p>
 
-• Tools:  
-  – Git  
-  – GitHub  
-  – VS Code  
-  – CI/CD   
+### ⚙️ Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+### 🧠 Focus Areas
+<p align="center">
+  Data Structures & Algorithms in C++ · Backend APIs · System Design (Basics)
+</p>
 
 ---
 
