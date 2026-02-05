@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="Banner" width="100%" />  
+<img src="./banner.png" alt="Banner" width="100%" />  
 </br>
 
 Hi 👋 I'm Chahak Jain  
