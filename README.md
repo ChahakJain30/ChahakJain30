@@ -1,7 +1,7 @@
 <img src="./banner.png" alt="Banner" width="100%" />  
 </br>
 
-<img src="./headline.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/ChahakJain30/ChahakJain30/main/headline.svg" width="100%" />
 
 <br/>
 
