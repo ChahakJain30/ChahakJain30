@@ -38,10 +38,6 @@
 
 ---
 
-## 🛠️ Technical Focus
-
-<br/>
-
 <div align="center">
 
 ## 💻 Core Development
