@@ -12,24 +12,38 @@
   </style>
 
   <text x="600" y="50">
+
     <tspan opacity="1">
       Building Scalable Full-Stack Web Applications
-      <animate attributeName="opacity" values="1;0;0;0" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="1;0;0;0"
+               dur="16s"
+               repeatCount="indefinite"/>
     </tspan>
 
     <tspan x="600" y="50" opacity="0">
-      Working with MERN Stack & Modern Web Technologies
-      <animate attributeName="opacity" values="0;1;0;0" dur="16s" repeatCount="indefinite"/>
+      Working with MERN Stack &amp; Modern Web Technologies
+      <animate attributeName="opacity"
+               values="0;1;0;0"
+               dur="16s"
+               repeatCount="indefinite"/>
     </tspan>
 
     <tspan x="600" y="50" opacity="0">
-      Strengthening DSA & Problem-Solving in C++
-      <animate attributeName="opacity" values="0;0;1;0" dur="16s" repeatCount="indefinite"/>
+      Strengthening DSA &amp; Problem-Solving in C++
+      <animate attributeName="opacity"
+               values="0;0;1;0"
+               dur="16s"
+               repeatCount="indefinite"/>
     </tspan>
 
     <tspan x="600" y="50" opacity="0">
-      Interested in System Design & Real-World Products
-      <animate attributeName="opacity" values="0;0;0;1" dur="16s" repeatCount="indefinite"/>
+      Interested in System Design &amp; Real-World Products
+      <animate attributeName="opacity"
+               values="0;0;0;1"
+               dur="16s"
+               repeatCount="indefinite"/>
     </tspan>
+
   </text>
 </svg>
