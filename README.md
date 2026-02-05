@@ -38,30 +38,11 @@ Hi 👋 I'm Chahak Jain
   – Git  
   – GitHub  
   – VS Code  
-  – CI/CD  
+  – CI/CD   
 
 ---
 
-📌 Featured Projects  
-
-• 🛒 E-Commerce Platform  
-  – Tech: React, Node.js, Express, MongoDB, Razorpay  
-  – JWT-based authentication & authorization  
-  – Razorpay payment gateway integration  
-  – Admin dashboard for products, orders, and inventory  
-  – Redux for state management  
-  – CI/CD pipeline for automated deployment  
-
-• 🩸 Lifeline – Blood Donation & Emergency Finder  
-  – Tech: PHP, MySQL, JavaScript, Geolocation  
-  – Real-time donor matching within 5–10 km radius  
-  – REST APIs with optimized database indexing  
-  – Role-Based Access Control for data security  
-  – Fully responsive UI for mobile & desktop  
-
----
-
-• 📊 Problem Solving  
+📊 Problem Solving  
 • Solved 100+ Data Structures & Algorithms problems in C++  
 
 ---
