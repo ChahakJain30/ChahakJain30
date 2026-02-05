@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](./banner.jpg)  
 Hi 👋 I'm Chahak Jain  
 
 • 🎓 Computer Science Engineering undergraduate (Class of 2026)  
