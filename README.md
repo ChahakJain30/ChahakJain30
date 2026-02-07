@@ -38,38 +38,30 @@
 
 ---
 
+<h2 align="center">🛠️ Technical Focus</h2>
+
+<br/>
+
 <div align="center">
 
-## 💻 Core Development
+### 💻 Core Development
 <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" />
 
 <br/><br/>
 
-## 🌐 Full Stack (MERN)
+### 🌐 Full Stack (MERN)
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css&theme=dark" />
 
 <br/><br/>
 
-## 🗄️ Databases & Cloud
+### 🗄️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
 
 <br/><br/>
 
-## ⚙️ Tools & Workflow
+### ⚙️ Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
 
 </div>
 
 <br/>
-
-
----
-
-📊 Problem Solving  
-• Solved 100+ Data Structures & Algorithms problems in C++  
-
----
-
-📫 Connect With Me  
-• Email: chahak.nikhil@gmail.com  
-• LinkedIn: https://www.linkedin.com/in/chahak-jain-830942251/
