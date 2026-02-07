@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <style>
+    text {
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+      fill: #A78BFA;
+      letter-spacing: 0.5px;
+    }
+  </style>
+
+  <text x="450" y="45" text-anchor="middle">
+    🛠️ Technical Focus
+  </text>
+</svg>
