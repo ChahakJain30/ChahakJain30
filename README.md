@@ -67,8 +67,15 @@
 
 <br/>
 
+<br/>
+<hr/>
+<br/>
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChahakJain30&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="./contributions.svg" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChahakJain30&theme=tokyo-night&hide_border=true&area=true&line=8B5CF6&point=C4B5FD" />
+</p>
