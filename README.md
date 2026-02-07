@@ -85,3 +85,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChahakJain30&theme=tokyonight" />
 </p>
+
+<br></br>
+
+<p align="center">
+  ✨ <em>Projects coming soon — currently building and learning.</em>
+</p>
