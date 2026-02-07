@@ -38,9 +38,10 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Focus</h2>
+<p align="center">
+  <img src="./technical-focus.svg" />
+</p>
 
-<br/>
 
 <div align="center">
 
