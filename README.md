@@ -92,3 +92,7 @@
 <p align="center">
   ✨ <em>Projects coming soon — currently building and learning.</em>
 </p>
+
+Today I worked on:
+- GitHub profile
+- SVG animations
